@@ -1,0 +1,8 @@
+{
+    "helloworld": {
+        "component": "HelloWorld"
+    },
+    "formulario": {
+        "component": "Formulario"
+    }
+}
