@@ -3,7 +3,7 @@
 
 Projeto  de E-commerce desenvolvido pela equipe 3 da casa  Dreamscape
 
-Link da Aplicação :  
+
 
 ## 🛠 Tecnologias Usadas :heart_eyes:
 
@@ -14,6 +14,7 @@ Link da Aplicação :
 - REACT
 - VTEX
 - AWS
+- Axios
 
 # 📝 Licença
 
@@ -29,12 +30,12 @@ Esse projeto foi desenvolvido por:
 
 [Diego Fernando](https://www.linkedin.com/in/diego-dvlopr)
 
-[Guilherme Marra](https://www.linkedin.com/in/marcos-vinicius-lima/)
+[Guilherme Marra](www.linkedin.com/in/guilhermeacmarra)
 
-[Josias Silva](https://www.linkedin.com/in/marcos-vinicius-lima/)
+[Josias Silva](https://www.linkedin.com/in/josias-roberto)
 
 [Luiz Henrique](https://www.linkedin.com/in/luiz-henrique-rosa-siqueira-7413a422a/)
 
-[Thiago Lins](https://www.linkedin.com/in/marcos-vinicius-lima/)
+[Thiago Lins](https://www.linkedin.com/in/thiago-teixeira-lins/)
 
 [Vinicius Lima](https://www.linkedin.com/in/marcos-vinicius-lima/)
