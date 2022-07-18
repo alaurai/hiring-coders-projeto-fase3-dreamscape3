@@ -1,0 +1,61 @@
+{
+  "name": "@readme/oas-to-har",
+  "description": "Utility to transform an OAS operation into a HAR representation",
+  "version": "16.1.0",
+  "main": "src/index.js",
+  "author": "Jon Ursenbach <jon@ursenba.ch>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/readmeio/oas-to-har.git"
+  },
+  "engines": {
+    "node": "^12 || ^14 || ^16"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "lint:docs": "alex . .github/",
+    "prepare": "husky install",
+    "pretest": "npm run lint && npm run lint:docs",
+    "prettier": "prettier --list-different --write \"./**/**.{js}\"",
+    "release": "npx conventional-changelog-cli -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "@readme/oas-extensions": "^14.2.0",
+    "oas": "^18.0.6",
+    "parse-data-url": "^4.0.1",
+    "remove-undefined-objects": "^1.1.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.0.0",
+    "@readme/eslint-config": "^8.5.1",
+    "@readme/oas-examples": "^4.5.0",
+    "alex": "^10.0.0",
+    "datauri": "^4.1.0",
+    "eslint": "^8.11.0",
+    "husky": "^7.0.4",
+    "jest": "^27.4.7",
+    "jest-expect-har": "^3.0.1",
+    "prettier": "^2.6.0"
+  },
+  "prettier": "@readme/eslint-config/prettier",
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "body-max-line-length": [
+        0,
+        "always",
+        "Infinity"
+      ],
+      "footer-max-line-length": [
+        0,
+        "always",
+        "Infinity"
+      ]
+    }
+  }
+}
