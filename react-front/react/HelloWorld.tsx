@@ -19,7 +19,7 @@ const HelloWorld: StorefrontFunctionComponent = () => {
 
     return (
         <>
-            {pontos ? <div>{Math.floor(pontos)} pontos</div> : null}
+            {pontos ? <div>{Math.floor(pontos)} pontos 1</div> : null}
         </>
 
     )

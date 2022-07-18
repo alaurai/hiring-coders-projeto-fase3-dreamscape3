@@ -2291,9 +2291,9 @@ domexception@^1.0.1:
   dependencies:
     webidl-conversions "^4.0.2"
 
-"dreamscape.reactexample@https://davidson01--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1657769408/public/@types/dreamscape.reactexample":
+"dreamscape.reactexample@https://davidson01--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658178959/public/@types/dreamscape.reactexample":
   version "0.0.1"
-  resolved "https://davidson01--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1657769408/public/@types/dreamscape.reactexample#876c016c0974288903f9484e12d3b999c285d584"
+  resolved "https://davidson01--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658178959/public/@types/dreamscape.reactexample#3eca01264cfea565c816c4b7ed9855fb68de1629"
 
 ecc-jsbn@~0.1.1:
   version "0.1.2"
@@ -4937,11 +4937,13 @@ verror@1.10.0:
 
 "vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context":
   version "0.10.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context#c5e2a97b404004681ee12f4fff7e6b62157786cc"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context"
+  integrity sha512-wib/8sXnd5mYRaYxL0NlCTAbyhq02VQLzhHPjW3ixA5uJn8+7TGTloBMpW2g0Pz3Avj/Y1Z98NDFSWz+nUKM6w==
 
 "vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime":
   version "8.132.4"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime#66bb41bd4d342e37c9d85172aad5f7eefebfb6dc"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime"
+  integrity sha512-qYiGKi/h+KtqcH8ijJDdx6ba5sYeP/+QBk8uJcNci/Sc9+wVoBdrm9wXvUPaqPg24FbysfyuoFTogJ+9Q1OLgQ==
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"
