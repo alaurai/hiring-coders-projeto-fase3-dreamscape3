@@ -1,8 +1,8 @@
 import { Router } from 'express';
 
-import User from './app/models/User.js';
+import User from './models/User.js';
 
-import authConfig from './confing';
+import authConfig from './config/auth.js';
 
 
 const routes = new Router();
