@@ -13,7 +13,7 @@
 .flexRow--buyNowButton :global(.vtex-button) {
   background: #eef3f7;
   border-color:#eef3f7;
-  color: #0f3e99;
+  color: #e91022;
 }
 
 .flexRow--buyNowButton:hover :global(.vtex-button) {

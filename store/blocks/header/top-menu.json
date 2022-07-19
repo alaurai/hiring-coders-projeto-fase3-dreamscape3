@@ -15,8 +15,8 @@
         "type": "internal",
         "href": "#",
         "noFollow": false,
-        "tagTitle": "Shop",
-        "text": "Shop"
+        "tagTitle": "Loja",
+        "text": "Loja"
       }
     }
   },
@@ -35,8 +35,8 @@
         "type": "external",
         "href": "http://vtex.com",
         "noFollow": false,
-        "tagTitle": "visit vtex.com",
-        "text": "visit vtex.com"
+        "tagTitle": "visite vtex.com",
+        "text": "visite vtex.com"
       }
     }
   }

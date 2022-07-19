@@ -25,7 +25,7 @@
   },
   "rich-text#deal1": {
     "props": {
-      "text": "Free shipping",
+      "text": "Frete grátis",
       "blockClass": "deals"
     }
   },
@@ -43,7 +43,7 @@
   },
   "rich-text#deal2": {
     "props": {
-      "text": "One day delivery",
+      "text": "Entrega em 1 dia",
       "blockClass": "deals"
     }
   },
@@ -61,7 +61,7 @@
   },
   "rich-text#deal3": {
     "props": {
-      "text": "Pick up in store",
+      "text": "Pegue na loja",
       "blockClass": "deals"
     }
   },
@@ -79,7 +79,7 @@
   },
   "rich-text#deal4": {
     "props": {
-      "text": "Exclusive deals",
+      "text": "Ofertas exclusivas",
       "blockClass": "deals"
     }
   }

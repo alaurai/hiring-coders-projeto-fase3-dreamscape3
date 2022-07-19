@@ -95,13 +95,13 @@
   },
   "rich-text#question": {
     "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+      "text": "**Esta é uma loja de exemplo usando a plataforma VTEX.\nQuer saber mais?**",
       "blockClass": "question"
     }
   },
   "rich-text#link": {
     "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
+      "text": "\n**Entre em contato**\nwww.vtex.com.br",
       "blockClass": "link"
     }
   }

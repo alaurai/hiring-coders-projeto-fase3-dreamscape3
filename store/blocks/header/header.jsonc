@@ -80,9 +80,9 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
-      "width": "180",
-      "height": "12"
+      "url": "https://dreamscape.vtexassets.com/assets/vtex.file-manager-graphql/images/175c213e-223a-476a-aaff-80f505b4ef41___c276870c5ad7441a783af229a33b99c9.png",
+      "width": "70", //"180"
+      "height": "90" //"12"
     }
   },
   "header-layout.mobile": {
