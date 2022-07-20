@@ -1,11 +1,11 @@
 {
-    "helloworld": {
-        "component": "HelloWorld"
+    "pontos": {
+        "component": "Pontos"
     },
     "formulario": {
         "component": "Formulario"
     },
-    "pontosprofile": {
-        "component": "PontosProfile"
+    "profile": {
+        "component": "Profile"
     }
 }
