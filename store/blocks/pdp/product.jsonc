@@ -111,6 +111,7 @@
     "children": [
       "flex-layout.row#product-name",
       "product-rating-summary",
+      "pontos",
       "flex-layout.row#list-price-savings",
       "flex-layout.row#selling-price",
       "product-installments",

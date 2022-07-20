@@ -1,7 +1,13 @@
 {
     "store.custom#profilepontos": {
         "blocks": [
-            // "pontosprofile"
+            "profile",
+            "rich-text"
         ]
+    },
+    "rich-text": {
+        "props": {
+            "text": "Olá Rich-Text"
+        }
     }
 }

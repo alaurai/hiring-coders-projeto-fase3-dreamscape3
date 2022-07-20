@@ -6,6 +6,6 @@
         "component": "Formulario"
     },
     "profile": {
-        "component": "Profile"
+        "component": "PontosProfile"
     }
 }
