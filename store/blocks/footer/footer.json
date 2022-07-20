@@ -15,36 +15,12 @@
       "vtex.menu@2.x:menu#footer-clothing",
       "vtex.menu@2.x:menu#footer-decoration",
       "vtex.menu@2.x:menu#footer-bags",
-      "footer-spacer",
-      "social-networks"
+      "footer-spacer"
     ],
     "props": {
       "blockClass": "menu-row",
       "paddingTop": 6,
       "paddingBottom": 3
-    }
-  },
-
-  "social-networks": {
-    "props": {
-      "socialNetworks": [
-        {
-          "name": "Facebook",
-          "url": "https://www.facebook.com/vtexonline/"
-        },
-        {
-          "name": "Instagram",
-          "url": "https://www.instagram.com/vtextruecloud/"
-        },
-        {
-          "name": "Twitter",
-          "url": "https://twitter.com/vtexonline"
-        },
-        {
-          "name": "Youtube",
-          "url": "https://www.youtube.com/user/VTEXTV"
-        }
-      ]
     }
   },
 
@@ -68,7 +44,8 @@
   },
   "rich-text#footer": {
     "props": {
-      "text": "Grupo do Hiring Coders - DreamScape3",
+      "text": "© 2022 All Rights Reserved | Desenvolvido por | [Dreamscape Store](https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3)",
+      "textPosition": "CENTER",
       "blockClass": "footer"
     }
   },
@@ -109,7 +86,8 @@
   },
   "rich-text#footer-mobile": {
     "props": {
-      "text": "rupo do Hiring Coders - DreamScape3",
+      "text": "© 2022 All Rights Reserved | Desenvolvido por | [Dreamscape Store](https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3)",
+      "textPosition": "CENTER",
       "blockClass": "footer"
     }
   }
