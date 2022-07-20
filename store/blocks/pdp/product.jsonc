@@ -112,6 +112,7 @@
       "flex-layout.row#product-name",
       "helloworld",
       "product-rating-summary",
+      "pontos",
       "flex-layout.row#list-price-savings",
       "flex-layout.row#selling-price",
       "product-installments",
