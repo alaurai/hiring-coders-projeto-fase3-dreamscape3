@@ -1,6 +1,11 @@
 
 # 💻 Projeto
 
+<h1 align="center">
+    <img alt="Capa do Projeto" title="Projeto" src="https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/main/assets/capa.png" />
+</h1>
+
+
 Projeto de E-commerce desenvolvido pela equipe 3 da casa Dreamscape para o Hiring Coders edição 3 da VTEX e Gama Academy.
 
 Dreamscape Store é um e-commerce funcional e responsivo, conta com sistema de recompensa de pontos do cliente. Utilizamos Vtex IO e React para o frontend, no backend utilizamos Node JS e o banco de dados MasterData da VTEX.
