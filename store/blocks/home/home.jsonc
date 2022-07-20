@@ -21,12 +21,12 @@
       "preload": true,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/Class&Style-desktop.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/Class&Style-mobile.png"
+          "image": "https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/develop/assets/Banner1D.png?raw=true",
+          "mobileImage": "https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/develop/assets/Banner1M.png?raw=true"
         },
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-decoration.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-decoration-mobile.png"
+          "image": "https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/develop/assets/Banner2D.png?raw=true",
+          "mobileImage": "https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/develop/assets/Banner2M.png?raw=true"
         }
       ]
     }
@@ -45,7 +45,7 @@
   },
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Summer",
+      "text": "## Nossos produtos",
       "blockClass": "shelfTitle"
     }
   },
@@ -82,9 +82,8 @@
       "id": "info-card-home",
       "isFullModeStyle": false,
       "textPosition": "left",
-      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "Clearance Sale",
-      "callToActionText": "DISCOVER",
+      "imageUrl": "https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/develop/assets/Banner3D.png?raw=true",
+      "callToActionText": "Comece a ganhar agora",
       "callToActionUrl": "/sale/d",
       "blockClass": "info-card-home",
       "textAlignment": "center"
