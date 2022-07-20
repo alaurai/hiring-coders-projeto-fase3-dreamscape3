@@ -9,10 +9,7 @@
       "__fold__",
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
-      "info-card#home",
-      "rich-text#question",
-      "rich-text#link",
-      "newsletter"
+      "info-card#home"
     ]
   },
   "list-context.image-list#demo": {
@@ -91,18 +88,6 @@
       "callToActionUrl": "/sale/d",
       "blockClass": "info-card-home",
       "textAlignment": "center"
-    }
-  },
-  "rich-text#question": {
-    "props": {
-      "text": "**Esta é uma loja de exemplo usando a plataforma VTEX.\nQuer saber mais?**",
-      "blockClass": "question"
-    }
-  },
-  "rich-text#link": {
-    "props": {
-      "text": "\n**Entre em contato**\nwww.vtex.com.br",
-      "blockClass": "link"
     }
   }
 }
