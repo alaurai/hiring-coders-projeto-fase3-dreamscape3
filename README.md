@@ -1,9 +1,19 @@
 
 # 💻 Projeto
 
-Projeto  de E-commerce desenvolvido pela equipe 3 da casa  Dreamscape
+Projeto de E-commerce desenvolvido pela equipe 3 da casa Dreamscape para o Hiring Coders edição 3 da VTEX e Gama Academy.
+
+Dreamscape Store é um e-commerce funcional e responsivo, conta com sistema de recompensa de pontos do cliente. Utilizamos Vtex IO e React para o frontend, no backend utilizamos Node JS e o banco de dados MasterData da VTEX.
 
 
+Link da Aplicação: https://dreamscapestore--dreamscape.myvtex.com  
+
+
+## Arquitetura
+
+<h1 align="center">
+    <img alt="Arquitetura do Projeto" title="Projeto" src="https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/main/assets/arquitetura.png" />
+</h1>
 
 ## 🛠 Tecnologias Usadas :heart_eyes:
 
@@ -15,6 +25,12 @@ Projeto  de E-commerce desenvolvido pela equipe 3 da casa  Dreamscape
 - VTEX
 - AWS
 - Axios
+- Node
+
+
+### Organização do Projeto
+
+Trello: https://trello.com/b/nAPWMNyT/projeto-fase-3-hiring-coders
 
 # 📝 Licença
 
@@ -28,14 +44,8 @@ Esse projeto foi desenvolvido por:
 
 [Davidson Azevedo](https://www.linkedin.com/in/davidsonazevedo)
 
-[Diego Fernando](https://www.linkedin.com/in/diego-dvlopr)
-
-[Guilherme Marra](www.linkedin.com/in/guilhermeacmarra)
-
 [Josias Silva](https://www.linkedin.com/in/josias-roberto)
 
 [Luiz Henrique](https://www.linkedin.com/in/luiz-henrique-rosa-siqueira-7413a422a/)
-
-[Thiago Lins](https://www.linkedin.com/in/thiago-teixeira-lins/)
 
 [Vinicius Lima](https://www.linkedin.com/in/marcos-vinicius-lima/)
