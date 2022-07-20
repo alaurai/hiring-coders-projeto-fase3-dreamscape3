@@ -34,9 +34,7 @@
       "itemProps": {
         "type": "external",
         "href": "http://vtex.com",
-        "noFollow": false,
-        "tagTitle": "visite vtex.com",
-        "text": "visite vtex.com"
+        "noFollow": false
       }
     }
   }
