@@ -4,5 +4,8 @@
     },
     "formulario": {
         "component": "Formulario"
+    },
+    "pontosprofile": {
+        "component": "PontosProfile"
     }
 }

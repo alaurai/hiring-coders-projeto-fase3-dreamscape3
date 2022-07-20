@@ -5,8 +5,7 @@
     },
     "children": [
       "menu-item#category-apparel",
-      "menu-item#category-home",
-      "menu-item#more"
+      "menu-item#category-home"
     ]
   },
   "menu-item#category-apparel": {
@@ -99,9 +98,7 @@
       "itemProps": {
         "type": "internal",
         "href": "/home---decor/",
-        "noFollow": false,
-        "tagTitle": "Casa & Decoração",
-        "text": "Casa & Decoração"
+        "noFollow": false
       }
     }
   },
@@ -114,9 +111,7 @@
       "itemProps": {
         "type": "internal",
         "href": "#",
-        "noFollow": true,
-        "tagTitle": "Mais",
-        "text": "Mais"
+        "noFollow": true
       }
     },
     "blocks": [

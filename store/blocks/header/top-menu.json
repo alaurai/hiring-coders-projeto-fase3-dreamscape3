@@ -2,8 +2,24 @@
   "vtex.menu@2.x:menu#websites": {
     "children": [
       "menu-item#shop",
-      "menu-item#about-us"
+      "menu-item#about-us",
+      "menu-item#profilepontos"
     ]
+  },
+  "menu-item#profilepontos": {
+    "props": {
+      "id": "menu-item-profile",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/profilepontos",
+        "noFollow": false,
+        "tagTitle": "profilePontos",
+        "text": "profilePontos"
+      }
+    }
   },
   "menu-item#shop": {
     "props": {
@@ -34,9 +50,7 @@
       "itemProps": {
         "type": "external",
         "href": "http://vtex.com",
-        "noFollow": false,
-        "tagTitle": "visite vtex.com",
-        "text": "visite vtex.com"
+        "noFollow": false
       }
     }
   }
