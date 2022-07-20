@@ -1,7 +1,7 @@
 {
     "store.custom#profilepontos": {
         "blocks": [
-            "pontosprofile"
+            // "pontosprofile"
         ]
     }
 }

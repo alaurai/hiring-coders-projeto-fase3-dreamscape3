@@ -17,7 +17,7 @@
         "href": "/profilepontos",
         "noFollow": false,
         "tagTitle": "profilePontos",
-        "text": "profilePontos"
+        "text": "Meus pontos"
       }
     }
   },
@@ -30,9 +30,7 @@
       "itemProps": {
         "type": "internal",
         "href": "#",
-        "noFollow": false,
-        "tagTitle": "Loja",
-        "text": "Loja"
+        "noFollow": false
       }
     }
   },

@@ -19,7 +19,7 @@
     "@vtex/test-tools": "^3.3.2",
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
-    "dreamscape.reactexample": "https://davidson01--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658178959/public/@types/dreamscape.reactexample",
+    "dreamscape.reactexample": "https://testealessia--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658178959/public/@types/dreamscape.reactexample",
     "graphql": "^14.6.0",
     "typescript": "3.9.7",
     "vtex.product-context": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context",

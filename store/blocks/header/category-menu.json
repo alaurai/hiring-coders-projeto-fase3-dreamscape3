@@ -160,9 +160,7 @@
       "itemProps": {
         "type": "internal",
         "href": "/about-us",
-        "noFollow": true,
-        "tagTitle": "Sobre nós",
-        "text": "Sobre nós"
+        "noFollow": true
       }
     }
   },
