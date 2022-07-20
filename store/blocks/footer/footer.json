@@ -27,7 +27,9 @@
   "flex-layout.row#footer-2-desktop": {
     "children": ["accepted-payment-methods"],
     "props": {
-      "blockClass": "payment-methods"
+      "blockClass": "payment-methods",
+      "preventHorizontalStretch": "true",
+      "horizontalAlign": "center"
     }
   },
   "accepted-payment-methods": {
@@ -61,7 +63,7 @@
     "props": {
       "blockClass": "payment-methods",
       "paddingTop": 4,
-      "paddingBottom": 4
+      "paddingBottom": 4    
     }
   },
   "flex-layout.col#footer-1-mobile": {
@@ -74,7 +76,9 @@
       "blockClass": "payment-methods",
       "paddingTop": 4,
       "paddingBottom": 4,
-      "rowGap": 4
+      "rowGap": 4,
+      "preventHorizontalStretch": "true",
+      "horizontalAlign": "center"
     }
   },
   "flex-layout.row#1-footer-mobile": {
