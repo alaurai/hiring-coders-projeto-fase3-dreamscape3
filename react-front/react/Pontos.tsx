@@ -7,7 +7,7 @@ import { useProduct } from 'vtex.product-context';
 
 
 
-const HelloWorld: StorefrontFunctionComponent = () => {
+const Pontos: StorefrontFunctionComponent = () => {
     const [pontos, setPontos] = useState<number>(0);
     const produto = useProduct();
 
@@ -19,10 +19,10 @@ const HelloWorld: StorefrontFunctionComponent = () => {
 
     return (
         <>
-            {pontos ? <div>{Math.trunc(pontos)} pontos</div> : null}
+            {pontos ? <div>Você recebe {Math.trunc(pontos)} pontos</div> : null}
         </>
 
     )
 }
 
-export default HelloWorld;
+export default Pontos;
