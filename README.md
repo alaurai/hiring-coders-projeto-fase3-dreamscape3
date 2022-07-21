@@ -1,14 +1,22 @@
 
 # 💻 Projeto
 
+
+
+Projeto de E-commerce desenvolvido pela equipe 3 da casa Dreamscape para o Hiring Coders edição 3 da VTEX e Gama Academy.
+
+Dreamscape Store é um e-commerce funcional e responsivo, conta com sistema de recompensa de pontos do cliente.
+
+
 <h1 align="center">
     <img alt="Capa do Projeto" title="Projeto" src="https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/main/assets/capa.png" />
 </h1>
 
 
-Projeto de E-commerce desenvolvido pela equipe 3 da casa Dreamscape para o Hiring Coders edição 3 da VTEX e Gama Academy.
+<h1 align="center">
+    <img alt="Pontuação da Loja" title="Pontos" src="https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/main/assets/pontos.png" />
+</h1>
 
-Dreamscape Store é um e-commerce funcional e responsivo, conta com sistema de recompensa de pontos do cliente. Utilizamos Vtex IO e React para o frontend, no backend utilizamos Node JS e o banco de dados MasterData da VTEX.
 
 
 Link da Aplicação: https://dreamscapestore--dreamscape.myvtex.com  
@@ -17,7 +25,7 @@ Link da Aplicação: https://dreamscapestore--dreamscape.myvtex.com
 ## Arquitetura
 
 <h1 align="center">
-    <img alt="Arquitetura do Projeto" title="Projeto" src="https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/main/assets/arquitetura.png" />
+    <img alt="Arquitetura do Projeto" title="Projeto" src="https://github.com/alaurai/hiring-coders-projeto-fase3-dreamscape3/blob/main/assets/arquitetura2.png" />
 </h1>
 
 ## 🛠 Tecnologias Usadas :heart_eyes:
@@ -28,14 +36,40 @@ Link da Aplicação: https://dreamscapestore--dreamscape.myvtex.com
 - Javascript
 - REACT
 - VTEX
-- AWS
-- Axios
-- Node
 
 
 ### Organização do Projeto
 
 Trello: https://trello.com/b/nAPWMNyT/projeto-fase-3-hiring-coders
+
+### Como Utilizar esse Projeto
+
+1. Faça o Clone do Projeto
+
+```
+git clone git@github.com:alaurai/hiring-coders-projeto-fase3-dreamscape3.git
+```
+
+2. Fazer Login na Vtex
+
+```
+vtex login AccountName
+```
+
+OBS: No Lugar do **AccountName** colocar o nome da sua conta vtex
+
+3. Depois de Logar em seu workspace, rode o Comando vtex setup na pasta react-front e na pasta react
+
+```
+vtex setup
+```
+
+4.Use o Vtex Link na pasta raiz e na pasta react-front, para conectar seu código a sua loja
+
+```
+vtex link
+```
+
 
 # 📝 Licença
 
