@@ -63,7 +63,6 @@ const PontosProfile: StorefrontFunctionComponent = () => {
                 capturaPontos(emailF);
                 return true
             }
-            // email
             return
         }
         return

@@ -1,10 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { useProduct } from 'vtex.product-context';
-// import { useCssHandles } from 'vtex.css-handles';
-
-// const CSS_HANDLES = ['container', 'price', 'message']
-
-
 
 
 const Pontos: StorefrontFunctionComponent = () => {
