@@ -110,7 +110,6 @@
     },
     "children": [
       "flex-layout.row#product-name",
-      "helloworld",
       "product-rating-summary",
       "pontos",
       "flex-layout.row#list-price-savings",

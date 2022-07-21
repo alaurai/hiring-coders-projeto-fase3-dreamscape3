@@ -2498,9 +2498,9 @@ domexception@^1.0.1:
   dependencies:
     webidl-conversions "^4.0.2"
 
-"dreamscape.reactexample@https://davidson01--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658355159/public/@types/dreamscape.reactexample":
+"dreamscape.reactexample@https://testealessia--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658364442/public/@types/dreamscape.reactexample":
   version "0.0.1"
-  resolved "https://davidson01--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658355159/public/@types/dreamscape.reactexample#05bda471291da44ec84898457c48fcfbe1b3bd0c"
+  resolved "https://testealessia--dreamscape.myvtex.com/_v/private/typings/linked/v1/dreamscape.reactexample@0.0.1+build1658364442/public/@types/dreamscape.reactexample#4b406032b20802daeab4d4112f724761a6a3539a"
 
 ecc-jsbn@~0.1.1:
   version "0.1.2"

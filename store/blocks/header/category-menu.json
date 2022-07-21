@@ -5,8 +5,24 @@
     },
     "children": [
       "menu-item#category-apparel",
-      "menu-item#category-home"
+      "menu-item#category-home",
+      "menu-item#profilepontos"
     ]
+  },
+  "menu-item#profilepontos": {
+    "props": {
+      "id": "menu-item-profile",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/profilepontos",
+        "noFollow": false,
+        "tagTitle": "profilePontos",
+        "text": "Meus pontos"
+      }
+    }
   },
   "menu-item#category-apparel": {
     "props": {
